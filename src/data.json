@@ -1,0 +1,61 @@
+{
+    "products":[
+    {
+     "_id": "dress1",
+     "image": "/images/dress1.jpg",
+     "title": "Midi sundress with shirring details",
+     "description": "This is for all latest trends, no matter who are you and where are you from and what you're up to.Our universal trends is here for you and comes in all our fit.Created by us styled by you.",
+     "availableSizes": ["L", "X", "XL", "XXL"],
+     "price": 1280
+
+    },
+    {
+     "_id": "dress2",
+     "image": "/images/dress2.jpg",
+     "title": "Midi sundress with ruched front",
+     "description": "This is for all latest trends, no matter who are you and where are you from and what you're up to.Our universal trends is here for you and comes in all our fit.Created by us styled by you.",
+     "availableSizes": ["M", "L", "X", "XL", "XXL"],
+     "price": 1380
+    },
+    {
+     "_id": "dress3",
+     "image": "/images/dress3.jpg",
+     "title": "Midi sundress with shirring details",
+     "description": "This is for all latest trends, no matter who are you and where are you from and what you're up to.Our universal trends is here for you and comes in all our fit.Created by us styled by you.",
+     "availableSizes": ["S", "M", "X", "XL", "XXL"],
+     "price": 1480
+    },
+    {
+     "_id": "dress4",
+     "image": "/images/dress4.jpg",
+     "title": "Midi sundress with ruched front",
+     "description": "This is for all latest trends, no matter who are you and where are you from and what you're up to.Our universal trends is here for you and comes in all our fit.Created by us styled by you.",
+     "availableSizes": [ "S","L", "X", "XL", "XXL"],
+     "price": 1400
+    },
+    {
+     "_id": "dress5",
+     "image": "/images/dress5.jpg",
+     "title": "Frill mini dress in black polka dot",
+     "description": "This is for all latest trends, no matter who are you and where are you from and what you're up to.Our universal trends is here for you and comes in all our fit.Created by us styled by you.",
+     "availableSizes": ["M", "L", "XL", "XXL"],
+     "price": 1680
+    },
+    {
+     "_id": "dress6",
+     "image": "/images/dress6.jpg",
+     "title": "Midi tea dress in red spot",
+     "description": "This is for all latest trends, no matter who are you and where are you from and what you're up to.Our universal trends is here for you and comes in all our fit.Created by us styled by you.",
+     "availableSizes": ["L", "M", "X", "XL", "XXL"],
+     "price":1580
+    },
+    {
+     "_id": "dress7",
+     "image": "/images/dress7.jpg",
+     "title": "Midi tea dress in blue spot",
+     "description": "This is for all latest trends, no matter who are you and where are you from and what you're up to.Our universal trends is here for you and comes in all our fit.Created by us styled by you.",
+     "availableSizes": ["L", "X", "XL", "XXL"],
+     "price": 1600
+    }
+ ]
+}
